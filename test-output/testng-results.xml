@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-21T10:25:52 IST" name="Suite" finished-at="2023-12-21T10:25:53 IST" duration-ms="186">
+    <groups>
+      <group name="Regression">
+        <method signature="GroupsExample.tc1()[pri:0, instance:testNGpractice.GroupsExample@5876a9af]" name="tc1" class="testNGpractice.GroupsExample"/>
+        <method signature="GroupsExample.tc10()[pri:0, instance:testNGpractice.GroupsExample@5876a9af]" name="tc10" class="testNGpractice.GroupsExample"/>
+        <method signature="GroupsExample.tc2()[pri:0, instance:testNGpractice.GroupsExample@5876a9af]" name="tc2" class="testNGpractice.GroupsExample"/>
+        <method signature="GroupsExample.tc4()[pri:0, instance:testNGpractice.GroupsExample@5876a9af]" name="tc4" class="testNGpractice.GroupsExample"/>
+        <method signature="GroupsExample.tc5()[pri:0, instance:testNGpractice.GroupsExample@5876a9af]" name="tc5" class="testNGpractice.GroupsExample"/>
+        <method signature="GroupsExample.tc7()[pri:0, instance:testNGpractice.GroupsExample@5876a9af]" name="tc7" class="testNGpractice.GroupsExample"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test started-at="2023-12-21T10:25:52 IST" name="testing1" finished-at="2023-12-21T10:25:53 IST" duration-ms="186">
+      <class name="testNGpractice.GroupsExample">
+        <test-method signature="tc1()[pri:0, instance:testNGpractice.GroupsExample@5876a9af]" started-at="2023-12-21T10:25:53 IST" name="tc1" finished-at="2023-12-21T10:25:53 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc1 -->
+        <test-method signature="tc10()[pri:0, instance:testNGpractice.GroupsExample@5876a9af]" started-at="2023-12-21T10:25:53 IST" name="tc10" finished-at="2023-12-21T10:25:53 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc10 -->
+        <test-method signature="tc2()[pri:0, instance:testNGpractice.GroupsExample@5876a9af]" started-at="2023-12-21T10:25:53 IST" name="tc2" finished-at="2023-12-21T10:25:53 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc2 -->
+        <test-method signature="tc4()[pri:0, instance:testNGpractice.GroupsExample@5876a9af]" started-at="2023-12-21T10:25:53 IST" name="tc4" finished-at="2023-12-21T10:25:53 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc4 -->
+        <test-method signature="tc5()[pri:0, instance:testNGpractice.GroupsExample@5876a9af]" started-at="2023-12-21T10:25:53 IST" name="tc5" finished-at="2023-12-21T10:25:53 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc5 -->
+        <test-method signature="tc7()[pri:0, instance:testNGpractice.GroupsExample@5876a9af]" started-at="2023-12-21T10:25:53 IST" name="tc7" finished-at="2023-12-21T10:25:53 IST" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc7 -->
+      </class> <!-- testNGpractice.GroupsExample -->
+    </test> <!-- testing1 -->
+  </suite> <!-- Suite -->
+</testng-results>
